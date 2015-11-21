@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyClassicBluetooth</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scan_device_list">ScanDeviceListActivity</string>
+</resources>
